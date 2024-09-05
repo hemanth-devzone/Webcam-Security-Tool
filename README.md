@@ -24,4 +24,5 @@ This project is designed to enhance the security of organizations by preventing 
 To run this application, you need to have Python installed on your machine. Additionally, install the required packages using the following command:
 
 ```bash
-pip install pillow secure-smtplib# Webcam_Spyware
+pip install pillow secure-smtplib
+
