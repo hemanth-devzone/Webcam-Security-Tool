@@ -71,7 +71,7 @@ The app is built with a **modern Tkinter GUI**, offers real-time status updates,
 Webcam_Spyware_Protection/
 ├── webcam-spyware-tool.py    # Main application
 ├── README.md                 # Documentation
-└── resources/                # App icons/images
+└── images/                   # App icons/images
 ```
 
 ---
